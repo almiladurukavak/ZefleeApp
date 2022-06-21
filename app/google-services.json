@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "908469894107",
+    "project_id": "zefleetask",
+    "storage_bucket": "zefleetask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908469894107:android:916df1c707c5ddd4d245fe",
+        "android_client_info": {
+          "package_name": "com.almiladurukavak.zefleetask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908469894107-s65gjjp1sc37tg7vuuro43njedoeqfmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB669fyefEzziMQW8cF_zkoJ5cdQ7g1Zp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908469894107-s65gjjp1sc37tg7vuuro43njedoeqfmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

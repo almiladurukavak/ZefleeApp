@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ZefleeTask</string>
+
+    <string name="no_more_text">No More Parking Tickets!</string>
+    <string name="login">Log ın</string>
+    <string name="signup">Sıgn Up</string>
+    <string name="choose">Choose Your Preferred Authentication</string>
+    <string name="face">Facebook</string>
+    <string name="google">Google</string>
+    <string name="or">or</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="email_hint">firstname.lastname@provider.com</string>
+    <string name="password_hint">************</string>
+    <string name="email_sign">Emaıl Sıgn In</string>
+    <string name="registerYourCar">Register Your Car</string>
+    <string name="username">Username</string>
+    <string name="carnumber">545454545454</string>
+    <string name="carplate">34TR34</string>
+    <string name="alreadyHave">Already Have an Account? Please</string>
+    <string name="signIn">Sıgn ın</string>
+    <string name="welcome">Welcome</string>
+    <string name="to_zeflee">to Zeflee, the community of no parking Ticket</string>
+    <string name="urban_hero">Urban Hero? Click Here</string>
+    <string name="notify_car_owner">Notify car owner and save them</string>
+    <string name="edit_car_details">Edit Your Car Details</string>
+    <string name="enter_car_info">Enter your car information</string>
+    <string name="edit_your_info">Edit Your Information</string>
+    <string name="submit">Submıt</string>
+    <string name="title_activity_report">ReportActivity</string>
+    <string name="title_report">Report</string>
+    <string name="title_report_history">My Report History</string>
+    <string name="title_report_details">Report Details</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="receive_alert">The car owner will receive an alert. Do you confirm?</string>
+    <string name="title_profile">Profile</string>
+    <string name="you_urban_hero">You are an urban hero</string>
+    <string name="thanks">Thank You</string>
+    <string name="verify">Verify License Plate</string>
+    <string name="towit">Tow It</string>
+    <string name="confirm">Confırm</string>
+    <string name="default_noti_channel_id">com.almiladurukavak.zefleetask</string>
+    <string name="channel_name">Zeflee</string>
+    <string name="channel_desc">Zeflee Desc</string>
+
+
+</resources>

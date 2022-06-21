@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".ui.home.HomeFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:text="@string/you_urban_hero"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:textAlignment="center"
+        android:textSize="20dp"
+        android:text="@string/thanks"
+        />
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="50dp"
+    android:textAlignment="center"
+    android:textSize="15dp"
+    android:textStyle="bold"
+    android:textColor="@color/black"
+    android:text="@string/verify"
+    />
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"
+        android:textAlignment="center"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:id="@+id/carPlateText"
+        android:background="@drawable/login_corner_button"
+        android:textColor="@color/black"
+        android:hint="@string/carplate"
+        android:text="@string/carplate"
+        android:digits="ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
+        android:inputType="textCapCharacters|textFilter"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:paddingTop="15dp"
+        android:layout_gravity="center"
+        android:paddingBottom="15dp"
+        />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:drawableTop="@drawable/ic_baseline_car_crash_24"
+        android:text="@string/towit"
+        android:drawableTint="@color/black"
+        android:layout_gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:padding="20dp"
+        android:id="@+id/towitButton"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/towit_button"
+        android:drawablePadding="20dp"
+
+
+        />
+</androidx.appcompat.widget.LinearLayoutCompat>
